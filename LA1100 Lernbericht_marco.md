@@ -1,31 +1,33 @@
 # Lern-Bericht
-✍️ ggf. Ihr Gruppenname und Ihre Gruppenmitglieder
+Marco Bürgi
 
 ## Einleitung
 
-✍️ Ein Satz, worum es in dem Projekt ging. Muss für einen externen Leser einfach zu verstehen sein.
+Wir haben ein Zahlengenrator progmmiert der eine Zufallszahl generiert und man diese erraten kann.
 
 ## Was habe ich gelernt?
 
-✍️ Beschreiben Sie in einem Satz **eine** Sache, die Sie bei diesem Projekt gelernt haben und die Sie in diesem Lern-Bericht dokumentieren.
+Ich habe gelernt wie man Farbe hinzügt zu Text und Hintergrund.
 
 ## Beschreibung
 
-✍️ Verwenden Sie drei verschiedene Medien, um zu zeigen, was Sie gelernt haben. Zum Beispiel:
+Ich habe beim Programm das die Schrift in Farbe dargestellt wird.
+Ich habe es auch im Hintergrund hinbekommen hier ist die Code Zeile.
 
-* Eine textliche Beschreibung
-* Ein deutliches, aussagekräftiges Bild oder eine kommentierte Bildschirm-Aufnahme
-* Ein gut dokumentierter Code-Fetzen
-* Ein Link zu einem *selbst aufgenommenen* youtube-Video oder `.gif`.
-
+    ```csharp
+    Console.ForegroundColor = ConsoleColor.Blue;
+                    Console.WriteLine("Eine Zufallszahl wurde generiert.")       
+    ```
+                    
+<img width="431" alt="image" src=https://cdn.discordapp.com/attachments/1014560355931922463/1022437634372534292/unknown.png>
+<img width="431" alt="image" src=https://cdn.discordapp.com/attachments/1014560355931922463/1022437633936334868/unknown.png>
+<img src="https://cdn.discordapp.com/attachments/1014560355931922463/1022444888140288020/ezgif.com-gif-maker_1.gif" <img width="431" height="300" />
 ## Verifikation
-
-✍️ Erklären Sie kurz und bündig, inwiefern die von Ihnen verwendeten Medien zeigen, was Sie gelernt haben.
+Das Bild zeigt das was ich ausgeführt habe funktioniert hat.
+Der Code Text zeigt das ich es richtig verwende.
+Das Gif zeigt das ich Texte in Frabe darstellen kann.
 
 # Reflektion zum Arbeitsprozess
-
-👍 Überlegen Sie sich jeweils etwas, was gut an Ihrer Arbeit lief; 
-
-👎 und etwas, was nicht gut lief.
-
-**VBV**: ✍️ Formulieren Sie davon ausgehend einen *handelbaren* Verbesserungsvorschlag.
+Ich habe gut geranbeitet wi ich es empfunden habe.
+Ich habe leider oft gefehlt da ich Krank war aber trotzdem kam ich gut Voran.
+Was ich verbessern könnte das ich wenn ich Unkonzentriert werde weil ich etwas machen will und es einfach nicht geht und ich immer unsäuberlicher bearbeite eine Pause mache und dann wieder dran gehe.
